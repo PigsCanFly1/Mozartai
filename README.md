@@ -1,4 +1,4 @@
-# Mozartai
+# GoPromote Events
 
 A modern React application built with TypeScript, Vite, and Supabase.
 

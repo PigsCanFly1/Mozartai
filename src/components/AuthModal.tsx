@@ -59,7 +59,7 @@ export function AuthModal({ isOpen, onClose, mode, onSwitchMode }: AuthModalProp
         <div className="p-8">
           <div className="text-center mb-8">
             <h2 className="text-3xl font-bold bg-gradient-to-r from-purple-400 to-purple-300 bg-clip-text text-transparent mb-2">
-              {mode === 'signin' ? 'Welcome Back' : 'Join GoPromo'}
+              {mode === 'signin' ? 'Welcome Back' : 'Join GoPromote Events'}
             </h2>
             <p className="text-gray-400">
               {mode === 'signin'

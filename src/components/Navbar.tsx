@@ -19,7 +19,7 @@ export function Navbar({ onSignInClick, onSignUpClick }: NavbarProps) {
               <div className="absolute inset-0 blur-xl bg-purple-500/30 group-hover:bg-purple-500/50 transition-all"></div>
             </div>
             <span className="text-2xl font-bold bg-gradient-to-r from-purple-400 via-purple-300 to-gray-300 bg-clip-text text-transparent">
-              GoPromo
+              GoPromote <span className="text-lg">Events</span>
             </span>
           </div>
 
